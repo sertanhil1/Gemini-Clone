@@ -5,9 +5,13 @@ The Gemini Clone project is an interactive application designed to mimic the cor
 
 ## Features
 - **Prompt-Driven Interaction:** Users interact with the system through prompts, making input-based decisions that determine the flow of the content.
+ 
 - **Minimalistic UI:** Following the philosophy of the Gemini protocol, the interface emphasizes simplicity and clarity, stripping away unnecessary design elements to focus solely on content.
+ 
 - **Privacy-Centric:** Data exchange is kept minimal, aligning with Gemini’s focus on providing a more privacy-conscious alternative to the modern web.
+ 
 - **Content Rendering:** It supports text rendering similar to how content is delivered on Gemini browsers, maintaining the integrity of the information without overwhelming distractions.
+ 
 - **Lightweight Framework** Built using JavaScript and React, the app ensures a fast, responsive, and low-resource-usage experience for users.
 
 
