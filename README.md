@@ -25,7 +25,7 @@ The Gemini Clone project is an interactive application designed to mimic the cor
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your_username/Gemini-Clone.git
-   cd spotify-clone
+   cd GEMINI-CLONE
 2. **Install Dependencies:**
    ```bash
    npm install
