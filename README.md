@@ -31,4 +31,4 @@ The Gemini Clone project is an interactive application designed to mimic the cor
    npm install
 3. **Start the Application:**
    ```bash
-   npm start
+   npm run dev
